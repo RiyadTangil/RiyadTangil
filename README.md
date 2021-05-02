@@ -7,7 +7,7 @@ And I can design a variety of graphics, including web designing.
 Besides.
 Skills: HTML / CSS/ Bootstrap/ JavaScript/ TypeScript/React/ Node.js/Express
 
- -  I have recently completed serveral projects width React js and now I’m      learning React-Native and PHP.
+ -  I have recently completed serveral projects with React js and now I’m      learning React-Native and PHP.
 - I love to learn and share my learned knowledge . So ask me  anything about programming and coding. 
 -  Fun fact: I never frustrated  with any  programming related problem.  
 
